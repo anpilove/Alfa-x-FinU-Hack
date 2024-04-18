@@ -48,7 +48,7 @@
     │   ├── test_data.pqt                 <- Оригинальный train.
     │   └── test_data.pqt                 <- Оригинальный test.
     │
-    ├── submissions                       <- лучшие сабмиты, top_1 public, top_1_all(на всем).
+    ├── submissions                       <- Лучшие сабмиты, top_1 public, top_1_all(на всем).
     │
     ├── models                            <- Обученные модели.
     │   ├── catboost_model_start_cluster.json   <- Модель catboost для восстановления start_cluster.
