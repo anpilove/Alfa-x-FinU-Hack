@@ -1,0 +1,11 @@
+catboost==1.2.3
+geopandas==0.14.3
+numpy==1.26.4
+pandas==2.1.4
+pandas-datareader==0.10.0
+pandas-profiling==3.6.6
+pandas-summary==0.2.0
+pandasql==0.7.3
+scikit-learn==1.2.2
+scikit-learn-intelex==2024.2.0
+sklearn-pandas==2.2.0
